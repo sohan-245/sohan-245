@@ -12,17 +12,6 @@ I'm a BCA student at **Himalaya College of Engineering** with an interest in web
 - **HTML, CSS & JavaScript** — Skillful
 - **Communication** — Skillful
 
-### Currently Learning
-
-- React
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Git & GitHub
-
----
-
 ## 🌐 Languages
 
 - Nepali
