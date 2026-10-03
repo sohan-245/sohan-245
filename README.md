@@ -34,15 +34,6 @@ January 2022 – June 2024
 
 ---
 
-## 📜 Training & Certifications
-
-### Full Stack Development
-**Broadway Infosys — 2026**
-
-Learned the fundamentals of full-stack development, including frontend development, backend development, databases, APIs, and frontend-backend communication.
-
----
-
 ## 🚀 Projects
 
 ### College Event Management System
